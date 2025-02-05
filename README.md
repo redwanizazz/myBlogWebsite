@@ -4,11 +4,11 @@ This is a personal blog built with HTML, CSS, and Bootstrap. The design incorpor
 
 ## __*Features*__
 
-    Responsive Design: The blog is fully responsive across devices, thanks to Bootstrap.
-    Custom Styling: Custom fonts and CSS styles create a unique look for the blog.
-    Featured Posts: Highlights popular posts at the top with eye-catching images.
-    Blog Archive: Displays past blog posts organized by date for easy access.
-    Social Media Links: Easy navigation to social media profiles through Font Awesome icons.
+    __Responsive Design__: The blog is fully responsive across devices, thanks to Bootstrap.
+    __Custom Styling__: Custom fonts and CSS styles create a unique look for the blog.
+    __Featured Posts__: Highlights popular posts at the top with eye-catching images.
+    __Blog Archive__: Displays past blog posts organized by date for easy access.
+    __Social Media Links__: Easy navigation to social media profiles through Font Awesome icons.
 
 ## __*Technologies Used*__
 
